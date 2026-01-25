@@ -1,0 +1,31 @@
+in pyhton self is a fundamental concept when working with oop.it represents the instance of the class being used.
+
+Important: self is a reference to the current instance of a class. it is used inside method to access instance attribute and other method
+
+
+some definition of a Instance Variable:
+a variable declare within a class but outside any method that holds values specific to instance of that class. 
+
+
+
+instance means a object type and we can create multiple instance of this object type
+
+* object is an instance of a class .it represents a specific implementation of a class and holds its own data .
+
+
+self is a reference key word
+* self parameter is a reference to the current instance of the class.it allows us to access the attributes and methods of the object.
+
+* CLASS  in python a way to structure and organize code into reusable components. They facilities code reusability ,modularity and maintainability by capsulating data and method within objects.
+
+object is a tangible entity that represents a particular instance of a class.it combines data and behaviors specified by the class
+
+
+*** a class is a user define prototype or blueprint from which object are created. Classes provide a means of bundling data and functionality together .
+
+**__init__ method is called when a new instance of the class is created ,this method serves as the constructor for the class and initializes the objects attributes .
+
+
+
+
+
